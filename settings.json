@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "CrishtanSMP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "CrishtanSMP.aternos.me:39776",
+    "ip": "CrishtanSMP.aternos.me",
     "port": 39776,
     "version": "",
     "try-creative": false
